@@ -22,3 +22,7 @@ cast_metadata.json
 .idea/
 .vscode/
 *.swp
+
+# Jupyter Notebook
+.DS_Store
+.ipynb_checkpoints/
