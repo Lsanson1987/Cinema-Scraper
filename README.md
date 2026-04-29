@@ -4,6 +4,10 @@ A professional-grade Python tool designed to extract structured cast and crew me
 
 ---
 
+Aryamaan Goswamy (**goswamy4**) <br />
+Chinmay Raghvendran (**cr64**) <br />
+Lucas Sanson (**lsanson2**) <br />
+
 ## 1. Project Documentation (README)
 
 ### Features
